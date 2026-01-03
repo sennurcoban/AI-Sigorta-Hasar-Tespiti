@@ -12,7 +12,7 @@ export default function HomeScreen({ navigation }) {
                     <View style={styles.logoPlaceholder}>
                         <Text style={styles.logoText}>🛡️</Text>
                     </View>
-                    <Text style={styles.title}>Sigorta Hasar Tespiti</Text>
+                    <Text style={styles.title}>AI Sigorta Hasar Tespiti</Text>
                     <Text style={styles.subtitle}>
                         Yapay zeka destekli anında ekspertiz. Arabanızın fotoğrafını çekin, saniyeler içinde masraf raporunu alın.
                     </Text>
